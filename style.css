@@ -1,0 +1,7 @@
+/* HideFooter — скрывает содержимое футера, оставляя отступ снизу */
+footer.Footer_root__ugyur {
+    visibility: hidden !important;
+    height: 5px !important;
+    min-height: unset !important;
+    overflow: hidden !important;
+}
